@@ -3,16 +3,16 @@
 Different test cases have been created for Shoplover's web application, a US-Bangla e-commerce platform. This project includes a test plan, mind map, test cases, report, bug report, and test metrics.
 
 ## Contents
-- [Prerequisites](##Prerequisites) 
-- [Introduction](##Introduction) 
-- [Test Plan](##test-plan) 
-- [Mind Map](##mind-map)
-- [Test Cases](##test-case-writing)
-- [Report](##report)
-- [Bug Report](##bug-report)
-- [Test Metrics](##test-metrics)
-- [Author](##test-metrics)
-- [Acknowledgment](##Acknowledgment)
+- [Prerequisites](#Prerequisites) 
+- [Introduction](#Introduction) 
+- [Test Plan](#test-plan) 
+- [Mind Map](#mind-map)
+- [Test Cases](#test-case-writing)
+- [Report](#report)
+- [Bug Report](#bug-report)
+- [Test Metrics](#test-metrics)
+- [Author](#test-metrics)
+- [Acknowledgment](#Acknowledgment)
 
 ## Prerequisites 
 
